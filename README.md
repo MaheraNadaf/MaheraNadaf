@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheraNadaf
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Html, CSS, JS, My-Sql,bootstrap
+- 🌱 I’m Full Stack Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maheranadaf25@gmail.com
 
